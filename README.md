@@ -13,10 +13,10 @@
   <a href="https://yash-shah-portfolio-one.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/yash-shah">
+  <a href="https://linkedin.com/in/yash-kamlesh-shah">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ys1309@njit.edu">
+  <a href="mailto:ykshah1309@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/ykshah1309">
