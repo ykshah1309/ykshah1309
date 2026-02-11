@@ -1,109 +1,151 @@
+<!-- Animated Header -->
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Yash+Shah+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Shah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Building%20the%20Future&descAlignY=51&descAlign=50"/>
 </div>
 
-<div align="center">
+<!-- Typing Animation with Multiple Lines -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CAEA3&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+%F0%9F%91%8B+I'm+Yash!;Transforming+Ideas+into+Code+%F0%9F%9A%80;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yash-shah-portfolio-one.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ykshah1309@gmail.com)
+<!-- Social Badges with Hover Effects -->
+<p align="center">
+  <a href="https://yash-shah-portfolio-one.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/yash-shah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ys1309@njit.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ykshah1309">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ykshah1309&color=blueviolet&style=for-the-badge)
-
-</div>
+<!-- Visitor Counter & Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ykshah1309&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ykshah1309?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ykshah1309?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-```typescript
-const yash = {
-    location: "New Jersey 📍",
-    education: "MS in Computer Science @ NJIT",
-    currentFocus: ["AI/ML Systems", "Full-Stack Development", "FinTech"],
-    funFact: "I build voice assistants and crush workouts 💪",
-    askMeAbout: ["React", "Python", "AWS", "Data Analytics", "System Design"],
-    currentlyLearning: "Advanced AI deployment & Enterprise architecture",
-    lookingFor: "SWE/ML Engineering Opportunities"
-};
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```yaml
+name: Yash Shah
+located_in: New Jersey, USA
+education: 
+  - MS in Computer Science @ NJIT
+current_focus:
+  - AI/ML Systems Architecture
+  - Full-Stack Development (MERN/Next.js)
+  - FinTech Solutions & Payment Systems
+  - Voice AI & NLP
+interests:
+  - System Design
+  - Cloud Infrastructure (AWS/Azure)
+  - Data Analytics & Visualization
+  - Open Source Contribution
+looking_for: SWE/ML Engineering Roles
+fun_fact: "I debug code at 2 AM with Bollywood music 🎵"
 ```
 
+**💡 Currently:** Building AI-powered analytics platforms and B2B POS systems  
+**🎯 Goal:** Ship products that make a real impact  
+**📫 Reach me:** [ykshah1309@gmail.com](mailto:ykshah1309@gmail.com)
+
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🔥 Languages & Frameworks</b></summary>
+<br>
+
+![Python](https://skillicons.dev/icons?i=python)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![SQL](https://skillicons.dev/icons?i=postgresql)
+
+**Frontend Magic:**  
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Redux](https://skillicons.dev/icons?i=redux)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+
+**Backend Power:**  
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Django](https://skillicons.dev/icons?i=django)
+
+**AI/ML & Data Science:**  
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![ScikitLearn](https://skillicons.dev/icons?i=sklearn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Cloud & DevOps:**  
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+
+**Databases:**  
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+**Tools & IDEs:**  
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- GitHub Stats Card with Custom Theme -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ykshah1309&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3CAEA3&icon_color=3CAEA3&text_color=FFFFFF"/>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### AI/ML & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<!-- GitHub Streak Stats -->
+<img height="180em" src="https://streak-stats.demolab.com?user=ykshah1309&theme=react&hide_border=true&background=0D1117&ring=3CAEA3&fire=3CAEA3&currStreakLabel=3CAEA3"/>
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ykshah1309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ykshah1309&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykshah1309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- Language Stats -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ykshah1309&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3CAEA3&text_color=FFFFFF&langs_count=10"/>
 
 </div>
 
----
-
-## 🔥 Contribution Graph
-
+<!-- Contribution Graph -->
 <div align="center">
-
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ykshah1309&theme=tokyo-night&hide_border=true)](https://github.com/ykshah1309)
-
-</div>
-
----
-
-## 📌 Pinned Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ykshah1309&repo=voice-assistant&theme=tokyonight&hide_border=true)](https://github.com/ykshah1309/pandoras-box)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ykshah1309&repo=data-analytics-platform&theme=tokyonight&hide_border=true)](https://github.com/ykshah1309/creb-ai)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykshah1309&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
 ---
@@ -111,52 +153,111 @@ const yash = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ykshah1309&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ykshah1309&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ykshah1309)
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<!-- Project Cards - Replace with your actual repos -->
+<a href="https://github.com/ykshah1309/creb-ai">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ykshah1309&repo=yash-shah-portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=3CAEA3&icon_color=3CAEA3&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/ykshah1309/Stonks">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ykshah1309&repo=ykshah1309&theme=react&hide_border=true&bg_color=0D1117&title_color=3CAEA3&icon_color=3CAEA3&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/ykshah1309/pandoras-box">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ykshah1309&repo=ykshah1309&theme=react&hide_border=true&bg_color=0D1117&title_color=3CAEA3&icon_color=3CAEA3&text_color=FFFFFF" />
+</a>
+
+</div>
+
+### 💼 Project Highlights
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🎙️ Voice AI Assistant** | Advanced voice assistant with NLP capabilities | Python, FastAPI, OpenAI, WebSocket |
+| **📊 Analytics Dashboard** | Real-time data visualization platform | Next.js, TypeScript, Chart.js, MongoDB |
+| **💳 B2B POS System** | Event management & payment processing | React, Node.js, Stripe, PostgreSQL |
+| **🤖 ML Model Deployment** | Scalable ML inference pipeline | PyTorch, Docker, AWS Lambda, Redis |
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=ykshah1309&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 
 </div>
 
 ---
 
-## 📈 Coding Stats
+## 🐍 Watch the Snake Eat My Contributions!
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Building AI-powered analytics dashboards
-- 🌱 Learning advanced system design patterns
-- 👯 Looking to collaborate on FinTech & ML projects
-- 💬 Ask me about full-stack development, AI/ML, or career advice
-- ⚡ Fun fact: I code better with Bollywood music 🎵
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ykshah1309/ykshah1309/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ykshah1309/ykshah1309/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ykshah1309/ykshah1309/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 💭 Dev Quote of the Day
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ykshah1309/ykshah1309/output/github-contribution-grid-snake-dark.svg)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House)
 
 </div>
 
 ---
 
-<div align="center">
+## 🌟 What I'm Up To
 
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+- 🔭 **Working on:** AI-powered analytics dashboards & voice assistant systems
+- 🌱 **Learning:** Advanced system design, reinforcement learning, enterprise architecture
+- 👯 **Collaborating on:** Open source ML/AI projects & FinTech solutions
+- 💬 **Ask me about:** Full-stack development, ML deployment, system design, career advice
+- ⚡ **Fun fact:** I can debug production issues while doing bicep curls 💪
 
 ---
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+## 📫 Let's Connect!
+
+<div align="center">
+
+### 💼 Open to opportunities in Software Engineering & ML Engineering!
+
+<a href="https://yash-shah-portfolio-one.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:ys1309@njit.edu">
+  <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yash-shah">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<div align="center">
+
+### Show some ❤️ by starring some of my repositories!
+
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![Built with Coffee](https://img.shields.io/badge/Built%20with-☕-brown?style=for-the-badge)
 
 </div>
