@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yash-shah-portfolio-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ykshah1309@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ykshah1309&color=blueviolet&style=for-the-badge)
 
@@ -101,8 +101,8 @@ const yash = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ykshah1309&repo=voice-assistant&theme=tokyonight&hide_border=true)](https://github.com/ykshah1309/voice-assistant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ykshah1309&repo=data-analytics-platform&theme=tokyonight&hide_border=true)](https://github.com/ykshah1309/data-analytics-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ykshah1309&repo=voice-assistant&theme=tokyonight&hide_border=true)](https://github.com/ykshah1309/pandoras-box)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ykshah1309&repo=data-analytics-platform&theme=tokyonight&hide_border=true)](https://github.com/ykshah1309/creb-ai)
 
 </div>
 
