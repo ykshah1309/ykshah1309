@@ -239,10 +239,10 @@ fun_fact: "I debug code at 2 AM with Bollywood music 🎵"
 <a href="https://yash-shah-portfolio-one.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="mailto:ys1309@njit.edu">
+<a href="mailto:ykshah1309@gmail.com">
   <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/yash-shah">
+<a href="linkedin.com/in/yash-kamlesh-shah">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
